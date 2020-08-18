@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="27.2" height="39.8" viewBox="0 0 27.2 39.8">
+  <g id="ship2" transform="translate(-775.2 -2218)">
+    <g id="Group_565" data-name="Group 565">
+      <path id="Path_5395" data-name="Path 5395" d="M782.5,2245.1h13.3l-4.7-21.9h-3.8Z" fill="#dd4341"/>
+      <path id="Path_5396" data-name="Path 5396" d="M791.8,2226.8l-.7-3.6h-3.8l-.8,3.6Z" fill="#fff"/>
+      <path id="Path_5397" data-name="Path 5397" d="M785.7,2230.3l-.7,3.6h8.4l-.8-3.6Z" fill="#fff"/>
+      <path id="Path_5398" data-name="Path 5398" d="M784.1,2237.7l-.8,4h11.8l-.9-4Z" fill="#fff"/>
+      <path id="Path_5399" data-name="Path 5399" d="M789.1,2218h0a1.9,1.9,0,0,1,1.9,1.9v3.3h-3.8v-3.3A1.967,1.967,0,0,1,789.1,2218Z" fill="#524b5f"/>
+      <path id="Path_5400" data-name="Path 5400" d="M781.2,2247.5h16.5l1.9-2.4H779.3Z" fill="#524b5f"/>
+    </g>
+    <g id="Group_566" data-name="Group 566">
+      <path id="Path_5401" data-name="Path 5401" d="M801.5,2248.7H776.1a.9.9,0,1,1,0-1.8h25.4a.9.9,0,1,1,0,1.8Z" fill="#5d9fa6"/>
+    </g>
+    <g id="Group_567" data-name="Group 567">
+      <path id="Path_5402" data-name="Path 5402" d="M796.2,2257.8H782.6a.9.9,0,1,1,0-1.8h13.6a.9.9,0,0,1,.9.9C797.2,2257.3,796.7,2257.8,796.2,2257.8Z" fill="#5d9fa6"/>
+    </g>
+    <g id="Group_568" data-name="Group 568">
+      <path id="Path_5403" data-name="Path 5403" d="M791.7,2252.6h-4.8a.9.9,0,1,1,0-1.8h4.8a.9.9,0,1,1,0,1.8Z" fill="#5d9fa6"/>
+    </g>
+  </g>
+</svg>
